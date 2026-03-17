@@ -1,4 +1,4 @@
-## Hello ✨🐭
+## Hello 🐭
 
 Just a student figuring out the balance between studies and side projects. 
 
