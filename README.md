@@ -1,6 +1,12 @@
-## Hello 🐭
+## Hello 
+I'm just a frontend & mobile dev student figuring out the balance between studies and side projects. 
 
-Just a student figuring out the balance between studies and side projects. 
+---
 
-Currently working on my bachelor project and my personal website.
+**Currently**
+- Building my **bachelor project**
+- Building my **personal website**
 
+**Upcoming**
+- Website for a World of Warcraft guild
+- Python project — Discord bot or weather app
