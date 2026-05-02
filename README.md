@@ -9,4 +9,4 @@ I'm just a frontend & mobile dev student figuring out the balance between studie
 
 **Upcoming**
 - Website for a World of Warcraft guild
-- Python project — Discord bot for M+ rating in World of Warcraft
+- Python project — Discord bot for World of Warcraft guild
