@@ -3,7 +3,7 @@ I'm a frontend & mobile dev student figuring out the balance between studies and
 
 ---
 
-## Projects
+## Current projects
 
 - **Bachelor thesis** — needs analysis & concept development of a mobile shopping app
 - **Personal website** — [annikenje.no](https://www.annikenje.no)
