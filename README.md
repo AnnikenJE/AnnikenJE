@@ -1,5 +1,5 @@
 ## Hello 
-I'm a frontend & mobile dev student figuring out the balance between studies and side projects. 
+I'm a frontend & mobile dev student! I´m mainly working on my bachelor thesis right now. 
 
 ---
 
