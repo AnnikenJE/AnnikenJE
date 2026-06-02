@@ -1,11 +1,12 @@
 ## Hello 
-I'm a frontend & mobile dev student! I´m mainly working on my bachelor thesis right now. 
+I'm a frontend and mobile developer, recently graduated with a Bachelor's in 
+Frontend and Mobile Development. I enjoy building apps for both web and mobile, 
+and I'm currently expanding into backend with Python.
 
 ---
 
 ## Current projects
 
-- **Bachelor thesis** — needs analysis & concept development of a mobile shopping app
 - **Personal website** — [annikenje.no](https://www.annikenje.no)
 - Building my first Python project, **a weather app with Flask**
 - **WoW guild website** (upcoming)
