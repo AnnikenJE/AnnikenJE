@@ -9,7 +9,7 @@ and I'm currently expanding into backend with Python.
 
 - **Personal website** — [annikenje.no](https://www.annikenje.no)
 - Building my first Python project, **a weather app with Flask**
-- **WoW guild website** 
+- **WoW guild website** — [thelionhearts.eu](https://dev.thelionhearts.eu/)
 
 ---
 
