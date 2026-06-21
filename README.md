@@ -36,6 +36,7 @@ and I'm currently expanding into backend with Python.
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
