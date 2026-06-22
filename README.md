@@ -2,8 +2,6 @@
 
 I'm Anniken, and I recently graduated with a Bachelor's in Frontend and Mobile Development. I enjoy building apps for both web and mobile, and I'm continuing to grow my backend skills. Currently learning Flask and Vue.
 
-<sub>Pet rat enthusiast — no further comment.</sub>
-
 ---
 
 ### Current projects
