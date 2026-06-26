@@ -1,14 +1,14 @@
 ## Hello
-
 I'm Anniken, and I recently graduated with a Bachelor's in Frontend and Mobile Development. I enjoy building apps for both web and mobile, and I'm continuing to grow my backend skills. Currently learning Flask and Vue.
+
+You can find me at [annikenje.no](https://www.annikenje.no).
 
 ---
 
-### Current projects
+### Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **[AnnikenJE](https://www.annikenje.no)** | Personal website | React (prob overkill) |
 | **[Weather app](https://github.com/AnnikenJE/weather-forecast)** | Weather forecast with clothing tips via Claude API | Flask |
 | **[The Lionhearts](https://dev.thelionhearts.eu/)** | WoW guild website | Vue |
 
