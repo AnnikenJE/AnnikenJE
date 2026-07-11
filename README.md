@@ -5,7 +5,7 @@ You can find me at [annikenje.no](https://www.annikenje.no).
 
 ---
 
-### Projects
+### Current projects
 
 | Project | Description | Stack |
 |---|---|---|
