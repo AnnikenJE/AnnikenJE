@@ -1,5 +1,5 @@
 ## Hello
-I'm Anniken, and I recently graduated with a Bachelor's in Frontend and Mobile Development. I enjoy building apps for both web and mobile, and I'm continuing to grow my backend skills. Currently learning Flask and Vue.
+I'm Anniken, a developer based in Norway with a bachelor's in Frontend and Mobile Development. I work across the stack.
 
 You can find me at [annikenje.no](https://www.annikenje.no).
 
