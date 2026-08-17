@@ -1,5 +1,4 @@
 ## Hello
-
 I'm Anniken, a fullstack developer based in Norway with a bachelor's in Frontend and Mobile Development.
 
 Visit my website: [annikenje.no](https://www.annikenje.no)
@@ -7,17 +6,15 @@ Visit my website: [annikenje.no](https://www.annikenje.no)
 ---
 
 ### Current projects
-
 | Project | Description | Stack |
 |---|---|---|
 | **[Weather app](https://github.com/AnnikenJE/weather-forecast)** | Weather forecast with clothing tips via Claude API | Flask |
-| **[The Lionhearts](https://dev.thelionhearts.eu/)** | WoW guild website | Vue |
+| **[The Lionhearts](https://github.com/AnnikenJE/the-lionhearts-website)** | WoW guild website | Vue |
 
 ---
 
 ### On AI
-
-I write code by hand, and I work with agents. Some repos here are written without assistance, others are agent-built with me on architecture and review. Each README says which, and where the line went.
+I write code by hand, and I also code agentically with tools like Claude Code. Most repos here are written without AI assistance, but I'm experimenting with more agentic coding. Each repo's README says which it is, and exactly where the line between my work and the agent's went. I've started using Claude for commit messages and to help write documentation.
 
 ---
 
@@ -58,7 +55,6 @@ I write code by hand, and I work with agents. Some repos here are written withou
 <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white" />
 </p>
 
 **Tools & Practices**
@@ -66,7 +62,10 @@ I write code by hand, and I work with agents. Some repos here are written withou
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kanban-0079BF?style=flat" />
 </p>
 
 ---
