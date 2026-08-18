@@ -1,5 +1,5 @@
 ## Hello
-I'm Anniken, a fullstack developer based in Norway with a bachelor's in Frontend and Mobile Development.
+I'm Anniken, a fullstack developer based in Norway with a bachelor in Frontend and Mobile Development.
 
 Visit my website: [annikenje.no](https://www.annikenje.no)
 
@@ -14,7 +14,7 @@ Visit my website: [annikenje.no](https://www.annikenje.no)
 ---
 
 ### On AI
-I write code by hand, and I also code agentically with tools like Claude Code. Most repos here are written without AI assistance, but I'm experimenting with more AI-assisted coding. Each repo's README says which it is, and exactly where the line between my work and the agents went. I've started using Claude for commit messages and to help write documentation.
+I write code by hand, but I also use Claude Code and GitHub Copilot. Most repos here are written without AI assistance. Each repo's README states whether and how AI was used. I use Claude for commit messages and to help write documentation.
 
 ---
 
