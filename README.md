@@ -13,11 +13,6 @@ Visit my website: [annikenje.no](https://www.annikenje.no)
 
 ---
 
-### On AI
-I write code by hand, but I also use Claude Code and GitHub Copilot. Most repos here are written without AI assistance. Each repo's README states whether and how AI was used. I use Claude for commit messages and to help write documentation.
-
----
-
 ### Skills
 
 **Languages**
@@ -67,5 +62,9 @@ I write code by hand, but I also use Claude Code and GitHub Copilot. Most repos 
 <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kanban-0079BF?style=flat" />
 </p>
+
+---
+### On AI
+I write code by hand, but I also use Claude Code and GitHub Copilot. Most repos here are written without AI assistance. Each repo's README states whether and how AI was used. 
 
 ---
