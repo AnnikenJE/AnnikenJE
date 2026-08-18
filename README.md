@@ -64,7 +64,3 @@ Visit my website: [annikenje.no](https://www.annikenje.no)
 </p>
 
 ---
-### On AI
-I write code by hand, but I also use Claude Code and GitHub Copilot. Most repos here are written without AI assistance. Each repo's README states whether and how AI was used. 
-
----
