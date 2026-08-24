@@ -5,14 +5,6 @@ Visit my website: [annikenje.no](https://www.annikenje.no)
 
 ---
 
-### Current projects
-| Project | Description | Stack |
-|---|---|---|
-| **[Weather app](https://github.com/AnnikenJE/weather-forecast)** | Weather forecast with clothing tips via Claude API | Flask |
-| **[The Lionhearts](https://github.com/AnnikenJE/the-lionhearts-website)** | WoW guild website | Vue |
-
----
-
 ### Skills
 
 **Languages**
