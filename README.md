@@ -1,5 +1,5 @@
 ## Hello
-I'm Anniken, a fullstack developer based in Norway with a bachelor in Frontend and Mobile Development.
+I'm Anniken, developer based in Norway with a bachelor in Frontend and Mobile Development.
 
 Visit my website: [annikenje.no](https://www.annikenje.no)
 
