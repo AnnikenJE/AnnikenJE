@@ -3,7 +3,7 @@ I'm Anniken, developer based in Norway with a bachelor's in Frontend and Mobile 
 
 Visit my website: [annikenje.no](https://www.annikenje.no)
 
-Website I'm building for my World of Warcraft guild (work in progress): [thelionhearts.eu](https://www.thelionhearts.eu/)
+Website I'm building for my World of Warcraft guild: [thelionhearts.eu](https://www.thelionhearts.eu/)
 
 ---
 
